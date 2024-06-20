@@ -3,9 +3,7 @@
 
 
 
-#### <u>[**Windows Stuff**](https://github.com/mrgeppetto/Windows)<u>
 
-#### <u>[**Linux Stuff**](https://github.com/mrgeppetto/Linux)<u>
 
 <!--
 **mrgeppetto/mrgeppetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
