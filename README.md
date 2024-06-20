@@ -3,11 +3,6 @@
 
 
 
-
-### Until a find something better to host my knowledgebase on, I guess this spot will do as good as any
-
-
-
 #### <u>[**Windows Stuff**](https://github.com/mrgeppetto/Windows)<u>
 
 #### <u>[**Linux Stuff**](https://github.com/mrgeppetto/Linux)<u>
