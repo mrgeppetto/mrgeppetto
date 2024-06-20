@@ -4,7 +4,7 @@
 
 
 
-###Until a find something better to host my knowledgebase on, I guess this spot will do as good as any
+### Until a find something better to host my knowledgebase on, I guess this spot will do as good as any
 
 
 
